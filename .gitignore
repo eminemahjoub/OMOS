@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Generated or mounted assets
+rootfs/
+iso/
+
+# OS files
+.DS_Store
+
